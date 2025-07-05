@@ -4,26 +4,12 @@ A software engineer from Nepal with a passion for solving problems using compute
 --- 
 
 - 🌱 I’m currently learning **low-level programming.**
-
 - 👯 I’m looking to collaborate on **projects I can contribute to meaningfully.**
-
 - 🤝 I’m looking for help with **finding a job :(**
-
 - 📝 I (occasionally) write articles on [my personal website](https://pranjalpokharel.com.np/posts.html)
-
 - 💬 Ask me about **backend systems, blockchain architecture, "how to code".**
-
-- 📫 How to reach me **pranjalpokharel007@gmail.com**
-
+- 📫 Reach me at **pranjalpokharel007@gmail.com**
 - 📄 Know about my experiences through [my resume](https://pranjalpokharel.com.np/resume.pdf)
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ppok24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ppok24" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/pranjal-pokharel-860637188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-pokharel-860637188" height="30" width="30" /></a>
-</p>
 
 ---
 
@@ -32,4 +18,4 @@ A software engineer from Nepal with a passion for solving problems using compute
 
 ---
 
-**Note:** Template used from from [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator).
+**Note:** Template used from from [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator); didn't want to use too much mental capacity overthinking about the "perfect" profile readme. Might remove the *languages and tools* section as it seems a bit overkill.
