@@ -3,7 +3,7 @@ A software engineer from Nepal with a passion for solving problems using compute
 
 --- 
 
-- 🌱 I’m currently learning **low-level programming.**
+- 🌱 I’m currently learning **CTFs and application security**
 - 👯 I’m looking to collaborate on **projects I can contribute to meaningfully.**
 - 📝 I (occasionally) write articles on [my personal website](https://pranjalpokharel.com.np/posts.html)
 - 💬 Ask me about **backend systems, blockchain architecture, "how to code".**
